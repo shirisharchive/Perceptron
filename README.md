@@ -1,0 +1,7 @@
+The very first trainable neural network:
+The “perceptron” is the first computational model, introduced by Frank Rosenblatt in 1958, 
+the computational model that could learn from data adjusting its internal parameters. The perceptron could only solve linearly separable problems and uses step function as an activation function to classify the data.
+The main idea of perceptron was to simulate the human brain learning mechanism using the machine. I used to always wonder how machine learns and understand the pattern in the data but looking through the perceptron working mechanism, I understood that machine too learns from the error and is to be fed again and again until and unless they become error free. Alike us, they too have the learning rate - too fast leads to instability, too slow leads to stagnation. We do mistakes and realize it and somewhat sub-consciously, “donot repeat it again” is set in our mind and we very less to tend to do it again. 
+Coming until here, you might feel perceptron is too simple what is amazing about it? The amazing thing is that it inspired the development of today’s deep neural networks. So, for person like me having learning rate ok-ok it is perfect to grasp the basic principles of neural networks, classification, and learning from data since I felt it’s like the ‘Hello World’ of machine learning—except instead of printing text, it decides if you're a Human or not.
+
+<img width="839" height="375" alt="image" src="https://github.com/user-attachments/assets/e77d149b-a938-41d8-8ab1-1f47da615fa7" />
